@@ -1,6 +1,6 @@
 /*
  * ╔══════════════════════════════════════════════╗
- * ║        PRISMI v1.8 — Autism‑Friendly         ║
+ * ║        PRISMI v1.8 — Friendly         ║
  * ║     Color Learning Board · All Rings Lit     ║
  * ╠══════════════════════════════════════════════╣
  * ║  Wiring:                                     ║
