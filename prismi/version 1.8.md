@@ -1,4 +1,4 @@
-# PRISMI v1.8 — Autism-Friendly Color Learning Board
+# PRISMI v1.8 — Friendly Color Learning Board
 
 > An interactive, hardware-based color recognition game built for children on the autism spectrum. Ten NeoPixel rings, one OLED display, and three difficulty levels combine into a sensory-friendly, engaging learning tool.
 
